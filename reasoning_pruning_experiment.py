@@ -8,7 +8,7 @@ Based on:
 This script implements attention-based pruning of reasoning chains in LLMs
 and evaluates the effect on math problem-solving accuracy (AIME24 dataset).
 
-Author: Naveen Pasupuleti
+Author: Naveen puppala
 Run on: Google Colab / Kaggle (T4 GPU recommended)
 """
 
