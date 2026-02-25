@@ -113,4 +113,4 @@ After pruning, we feed the retained reasoning back to the model as context and a
 
 ## Author
 
-Naveen Pasupuleti — Collaboration application for Sarvesh Gharat (IIT Bombay)
+Naveen Puppala — Collaboration application for Sarvesh Gharat (IIT Bombay)
